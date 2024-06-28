@@ -1,0 +1,22 @@
+{
+  "name": "hapi-web-server",
+  "version": "1.0.0",
+  "description": "learn hapi web server framework",
+  "main": "index.js",
+  "scripts": {
+    "start": "server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahmatdinar/hapi-web-server.git"
+  },
+  "keywords": [
+    "hapi"
+  ],
+  "author": "blsmb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahmatdinar/hapi-web-server/issues"
+  },
+  "homepage": "https://github.com/rahmatdinar/hapi-web-server#readme"
+}
