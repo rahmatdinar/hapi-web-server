@@ -4,7 +4,7 @@
   "description": "learn hapi web server framework",
   "main": "index.js",
   "scripts": {
-    "start": "server.js"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/rahmatdinar/hapi-web-server/issues"
   },
-  "homepage": "https://github.com/rahmatdinar/hapi-web-server#readme"
+  "homepage": "https://github.com/rahmatdinar/hapi-web-server#readme",
+  "dependencies": {
+    "@hapi/hapi": "^21.3.10",
+    "hapi": "^18.1.0"
+  }
 }
